@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Jenkins-Integration.iml" filepath="$PROJECT_DIR$/Jenkins-Integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ruby_Jenkins_Test.iml" filepath="$PROJECT_DIR$/Ruby_Jenkins_Test.iml" />
     </modules>
   </component>
 </project>
